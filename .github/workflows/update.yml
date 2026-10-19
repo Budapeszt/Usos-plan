@@ -1,0 +1,29 @@
+name: Aktualizacja Kalendarza USOS
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Uruchamia skrypt co 6 godzin
+  workflow_dispatch: # Pozwala na ręczne uruchomienie przyciskiem
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Instalacja środowiska Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Instalacja bibliotek
+        run: pip install requests icalendar
+      - name: Wykonanie skryptu filtrującego
+        run: python filter.py
+      - name: Zapis i publikacja przefiltrowanego pliku
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add filtered.ics
+          git commit -m "Automatyczna aktualizacja planu" || exit 0
+          git push
