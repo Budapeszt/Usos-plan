@@ -10,8 +10,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261020T094500
 DTEND;VALUE=DATE-TIME:20261020T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057028@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097969@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -23,8 +23,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261020T113000
 DTEND;VALUE=DATE-TIME:20261020T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056404@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097345@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -36,8 +36,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261020T131500
 DTEND;VALUE=DATE-TIME:20261020T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056740@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097681@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -49,8 +49,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261021T094500
 DTEND;VALUE=DATE-TIME:20261021T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056606@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097547@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -62,8 +62,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261021T113000
 DTEND;VALUE=DATE-TIME:20261021T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057137@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098078@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -75,8 +75,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261022T080000
 DTEND;VALUE=DATE-TIME:20261022T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056453@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097394@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -88,8 +88,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261022T150000
 DTEND;VALUE=DATE-TIME:20261022T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057489@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098430@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -101,8 +101,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261022T164500
 DTEND;VALUE=DATE-TIME:20261022T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056878@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097819@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -114,8 +114,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261023T094500
 DTEND;VALUE=DATE-TIME:20261023T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056723@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097664@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -127,8 +127,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261023T113000
 DTEND;VALUE=DATE-TIME:20261023T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057329@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098270@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -140,8 +140,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261027T094500
 DTEND;VALUE=DATE-TIME:20261027T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057029@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097970@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -153,8 +153,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261027T113000
 DTEND;VALUE=DATE-TIME:20261027T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056405@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097346@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -166,8 +166,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261027T131500
 DTEND;VALUE=DATE-TIME:20261027T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056741@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097682@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -179,8 +179,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261028T094500
 DTEND;VALUE=DATE-TIME:20261028T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056607@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097548@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -192,8 +192,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261028T113000
 DTEND;VALUE=DATE-TIME:20261028T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057138@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098079@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -205,8 +205,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261029T080000
 DTEND;VALUE=DATE-TIME:20261029T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056454@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097395@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -218,8 +218,8 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261029T094500
 DTEND;VALUE=DATE-TIME:20261029T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057044@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097985@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
@@ -231,8 +231,8 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261029T113000
 DTEND;VALUE=DATE-TIME:20261029T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057285@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098226@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
@@ -244,8 +244,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261029T150000
 DTEND;VALUE=DATE-TIME:20261029T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057490@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098431@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -257,8 +257,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261029T164500
 DTEND;VALUE=DATE-TIME:20261029T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056879@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097820@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -270,8 +270,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261030T094500
 DTEND;VALUE=DATE-TIME:20261030T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056724@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097665@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -283,8 +283,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261030T113000
 DTEND;VALUE=DATE-TIME:20261030T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057330@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098271@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -296,8 +296,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261103T094500
 DTEND;VALUE=DATE-TIME:20261103T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057030@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097971@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -309,8 +309,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261103T113000
 DTEND;VALUE=DATE-TIME:20261103T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056406@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097347@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -322,8 +322,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261103T131500
 DTEND;VALUE=DATE-TIME:20261103T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056742@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097683@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -335,8 +335,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261104T094500
 DTEND;VALUE=DATE-TIME:20261104T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056608@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097549@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -348,8 +348,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261104T113000
 DTEND;VALUE=DATE-TIME:20261104T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057139@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098080@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -361,8 +361,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261105T080000
 DTEND;VALUE=DATE-TIME:20261105T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056455@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097396@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -374,8 +374,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261105T150000
 DTEND;VALUE=DATE-TIME:20261105T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057491@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098432@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -387,8 +387,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261105T164500
 DTEND;VALUE=DATE-TIME:20261105T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056880@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097821@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -400,8 +400,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261106T094500
 DTEND;VALUE=DATE-TIME:20261106T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056725@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097666@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -413,8 +413,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261106T113000
 DTEND;VALUE=DATE-TIME:20261106T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057331@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098272@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -426,8 +426,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261110T094500
 DTEND;VALUE=DATE-TIME:20261110T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057031@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097972@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -439,8 +439,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261110T113000
 DTEND;VALUE=DATE-TIME:20261110T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056407@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097348@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -452,8 +452,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261110T131500
 DTEND;VALUE=DATE-TIME:20261110T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056743@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097684@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -465,8 +465,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261112T080000
 DTEND;VALUE=DATE-TIME:20261112T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056456@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097397@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -478,8 +478,8 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261112T094500
 DTEND;VALUE=DATE-TIME:20261112T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057048@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097989@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
@@ -491,8 +491,8 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261112T113000
 DTEND;VALUE=DATE-TIME:20261112T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057289@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098230@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
@@ -504,8 +504,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261112T150000
 DTEND;VALUE=DATE-TIME:20261112T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057492@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098433@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -517,8 +517,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261112T164500
 DTEND;VALUE=DATE-TIME:20261112T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056881@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097822@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -530,8 +530,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261113T094500
 DTEND;VALUE=DATE-TIME:20261113T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056726@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097667@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -543,8 +543,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261113T113000
 DTEND;VALUE=DATE-TIME:20261113T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057332@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098273@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -556,8 +556,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261117T094500
 DTEND;VALUE=DATE-TIME:20261117T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057032@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097973@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -569,8 +569,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261117T113000
 DTEND;VALUE=DATE-TIME:20261117T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056408@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097349@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -582,8 +582,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261117T131500
 DTEND;VALUE=DATE-TIME:20261117T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056744@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097685@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -595,8 +595,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261118T094500
 DTEND;VALUE=DATE-TIME:20261118T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056609@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097550@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -608,8 +608,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261118T113000
 DTEND;VALUE=DATE-TIME:20261118T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057140@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098081@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -621,8 +621,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261119T080000
 DTEND;VALUE=DATE-TIME:20261119T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056457@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097398@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -634,8 +634,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261119T150000
 DTEND;VALUE=DATE-TIME:20261119T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057493@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098434@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -647,8 +647,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261119T164500
 DTEND;VALUE=DATE-TIME:20261119T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056882@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097823@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -660,8 +660,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261120T094500
 DTEND;VALUE=DATE-TIME:20261120T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056727@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097668@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -673,8 +673,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261120T113000
 DTEND;VALUE=DATE-TIME:20261120T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057333@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098274@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -686,8 +686,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261124T094500
 DTEND;VALUE=DATE-TIME:20261124T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057033@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097974@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -699,8 +699,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261124T113000
 DTEND;VALUE=DATE-TIME:20261124T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056409@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097350@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -712,8 +712,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261124T131500
 DTEND;VALUE=DATE-TIME:20261124T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056745@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097686@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -725,8 +725,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261125T094500
 DTEND;VALUE=DATE-TIME:20261125T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056610@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097551@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -738,8 +738,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261125T113000
 DTEND;VALUE=DATE-TIME:20261125T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057141@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098082@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -751,8 +751,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261126T080000
 DTEND;VALUE=DATE-TIME:20261126T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056458@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097399@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -764,8 +764,8 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261126T094500
 DTEND;VALUE=DATE-TIME:20261126T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057045@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097986@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
@@ -777,8 +777,8 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261126T113000
 DTEND;VALUE=DATE-TIME:20261126T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057286@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098227@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
@@ -790,8 +790,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261126T150000
 DTEND;VALUE=DATE-TIME:20261126T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057494@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098435@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -803,8 +803,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261126T164500
 DTEND;VALUE=DATE-TIME:20261126T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056883@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097824@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -816,8 +816,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261127T094500
 DTEND;VALUE=DATE-TIME:20261127T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056728@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097669@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -829,8 +829,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261127T113000
 DTEND;VALUE=DATE-TIME:20261127T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057334@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098275@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -842,8 +842,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261201T094500
 DTEND;VALUE=DATE-TIME:20261201T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057034@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097975@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -855,8 +855,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261201T113000
 DTEND;VALUE=DATE-TIME:20261201T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056410@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097351@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -868,8 +868,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261201T131500
 DTEND;VALUE=DATE-TIME:20261201T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056746@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097687@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -881,8 +881,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261202T094500
 DTEND;VALUE=DATE-TIME:20261202T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056611@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097552@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -894,8 +894,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261202T113000
 DTEND;VALUE=DATE-TIME:20261202T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057142@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098083@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -907,8 +907,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261203T080000
 DTEND;VALUE=DATE-TIME:20261203T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056459@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097400@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -920,8 +920,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261203T150000
 DTEND;VALUE=DATE-TIME:20261203T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057495@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098436@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -933,8 +933,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261203T164500
 DTEND;VALUE=DATE-TIME:20261203T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056884@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097825@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -946,8 +946,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261204T094500
 DTEND;VALUE=DATE-TIME:20261204T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056729@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097670@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -959,8 +959,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261204T113000
 DTEND;VALUE=DATE-TIME:20261204T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057335@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098276@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -972,8 +972,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261208T094500
 DTEND;VALUE=DATE-TIME:20261208T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057035@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097976@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -985,8 +985,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261208T113000
 DTEND;VALUE=DATE-TIME:20261208T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056411@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097352@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -998,8 +998,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261208T131500
 DTEND;VALUE=DATE-TIME:20261208T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056747@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097688@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1011,8 +1011,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261209T094500
 DTEND;VALUE=DATE-TIME:20261209T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056612@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097553@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1024,8 +1024,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261209T113000
 DTEND;VALUE=DATE-TIME:20261209T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057143@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098084@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1037,8 +1037,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261210T080000
 DTEND;VALUE=DATE-TIME:20261210T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056460@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097401@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1050,8 +1050,8 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261210T094500
 DTEND;VALUE=DATE-TIME:20261210T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057043@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097984@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
@@ -1063,8 +1063,8 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261210T113000
 DTEND;VALUE=DATE-TIME:20261210T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057284@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098225@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
@@ -1076,8 +1076,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261210T150000
 DTEND;VALUE=DATE-TIME:20261210T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057496@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098437@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1089,8 +1089,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261210T164500
 DTEND;VALUE=DATE-TIME:20261210T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056885@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097826@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1102,8 +1102,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261211T094500
 DTEND;VALUE=DATE-TIME:20261211T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056730@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097671@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1115,8 +1115,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261211T113000
 DTEND;VALUE=DATE-TIME:20261211T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057336@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098277@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1128,8 +1128,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261215T094500
 DTEND;VALUE=DATE-TIME:20261215T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057036@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097977@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1141,8 +1141,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261215T113000
 DTEND;VALUE=DATE-TIME:20261215T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056412@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097353@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1154,8 +1154,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261215T131500
 DTEND;VALUE=DATE-TIME:20261215T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056748@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097689@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1167,8 +1167,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261216T094500
 DTEND;VALUE=DATE-TIME:20261216T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056613@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097554@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1180,8 +1180,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261216T113000
 DTEND;VALUE=DATE-TIME:20261216T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057144@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098085@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1193,8 +1193,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261217T080000
 DTEND;VALUE=DATE-TIME:20261217T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056461@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097402@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1206,8 +1206,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261217T150000
 DTEND;VALUE=DATE-TIME:20261217T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057497@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098438@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1219,8 +1219,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261217T164500
 DTEND;VALUE=DATE-TIME:20261217T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056886@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097827@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1232,8 +1232,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261218T094500
 DTEND;VALUE=DATE-TIME:20261218T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056731@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097672@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1245,8 +1245,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261218T113000
 DTEND;VALUE=DATE-TIME:20261218T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057337@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098278@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1258,8 +1258,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261222T094500
 DTEND;VALUE=DATE-TIME:20261222T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057037@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097978@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1271,8 +1271,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261222T113000
 DTEND;VALUE=DATE-TIME:20261222T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056413@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097354@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1284,8 +1284,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261222T131500
 DTEND;VALUE=DATE-TIME:20261222T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056749@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097690@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1297,8 +1297,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261223T094500
 DTEND;VALUE=DATE-TIME:20261223T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056614@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097555@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1310,8 +1310,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261223T113000
 DTEND;VALUE=DATE-TIME:20261223T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057145@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098086@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1323,8 +1323,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270107T080000
 DTEND;VALUE=DATE-TIME:20270107T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056462@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097403@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1336,8 +1336,8 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270107T094500
 DTEND;VALUE=DATE-TIME:20270107T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057049@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097990@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
@@ -1349,8 +1349,8 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20270107T113000
 DTEND;VALUE=DATE-TIME:20270107T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057290@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098231@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
@@ -1362,8 +1362,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270107T150000
 DTEND;VALUE=DATE-TIME:20270107T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057498@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098439@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1375,8 +1375,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270107T164500
 DTEND;VALUE=DATE-TIME:20270107T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056887@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097828@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1388,8 +1388,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270108T094500
 DTEND;VALUE=DATE-TIME:20270108T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056732@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097673@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1401,8 +1401,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270108T113000
 DTEND;VALUE=DATE-TIME:20270108T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057338@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098279@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1414,8 +1414,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270112T094500
 DTEND;VALUE=DATE-TIME:20270112T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057038@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097979@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1427,8 +1427,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270112T113000
 DTEND;VALUE=DATE-TIME:20270112T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056414@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097355@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1440,8 +1440,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270112T131500
 DTEND;VALUE=DATE-TIME:20270112T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056750@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097691@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1453,8 +1453,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270113T094500
 DTEND;VALUE=DATE-TIME:20270113T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056615@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097556@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1466,8 +1466,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270113T113000
 DTEND;VALUE=DATE-TIME:20270113T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057146@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098087@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1479,8 +1479,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270114T080000
 DTEND;VALUE=DATE-TIME:20270114T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056463@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097404@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1492,8 +1492,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270114T150000
 DTEND;VALUE=DATE-TIME:20270114T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057499@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098440@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1505,8 +1505,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270114T164500
 DTEND;VALUE=DATE-TIME:20270114T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056888@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097829@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1518,8 +1518,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270115T094500
 DTEND;VALUE=DATE-TIME:20270115T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056733@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097674@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1531,8 +1531,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270115T113000
 DTEND;VALUE=DATE-TIME:20270115T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057339@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098280@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1544,8 +1544,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270119T094500
 DTEND;VALUE=DATE-TIME:20270119T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057039@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097980@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1557,8 +1557,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270119T113000
 DTEND;VALUE=DATE-TIME:20270119T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056415@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097356@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1570,8 +1570,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270119T131500
 DTEND;VALUE=DATE-TIME:20270119T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056751@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097692@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1583,8 +1583,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270120T094500
 DTEND;VALUE=DATE-TIME:20270120T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056616@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097557@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1596,8 +1596,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270120T113000
 DTEND;VALUE=DATE-TIME:20270120T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057147@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098088@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1609,8 +1609,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270121T080000
 DTEND;VALUE=DATE-TIME:20270121T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056464@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097405@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1622,8 +1622,8 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270121T094500
 DTEND;VALUE=DATE-TIME:20270121T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057047@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097988@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
@@ -1635,8 +1635,8 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20270121T113000
 DTEND;VALUE=DATE-TIME:20270121T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057288@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098229@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
@@ -1648,8 +1648,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270121T150000
 DTEND;VALUE=DATE-TIME:20270121T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057500@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098441@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1661,8 +1661,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270121T164500
 DTEND;VALUE=DATE-TIME:20270121T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056889@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097830@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1674,8 +1674,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270122T094500
 DTEND;VALUE=DATE-TIME:20270122T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056734@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097675@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1687,8 +1687,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270122T113000
 DTEND;VALUE=DATE-TIME:20270122T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057340@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098281@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1700,8 +1700,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270126T094500
 DTEND;VALUE=DATE-TIME:20270126T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057040@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097981@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1713,8 +1713,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270126T113000
 DTEND;VALUE=DATE-TIME:20270126T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056416@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097357@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1726,8 +1726,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270126T131500
 DTEND;VALUE=DATE-TIME:20270126T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056752@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097693@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1739,8 +1739,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270127T094500
 DTEND;VALUE=DATE-TIME:20270127T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056617@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097558@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1752,8 +1752,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270127T113000
 DTEND;VALUE=DATE-TIME:20270127T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057148@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098089@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1765,8 +1765,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270128T080000
 DTEND;VALUE=DATE-TIME:20270128T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056465@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097406@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1778,8 +1778,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270128T150000
 DTEND;VALUE=DATE-TIME:20270128T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057501@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098442@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1791,8 +1791,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270128T164500
 DTEND;VALUE=DATE-TIME:20270128T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056890@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097831@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1804,8 +1804,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270129T094500
 DTEND;VALUE=DATE-TIME:20270129T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056735@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097676@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1817,8 +1817,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270129T113000
 DTEND;VALUE=DATE-TIME:20270129T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057341@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098282@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1830,8 +1830,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270202T094500
 DTEND;VALUE=DATE-TIME:20270202T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057041@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097982@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1843,8 +1843,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270202T113000
 DTEND;VALUE=DATE-TIME:20270202T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056417@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097358@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1856,8 +1856,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270202T131500
 DTEND;VALUE=DATE-TIME:20270202T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056753@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097694@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1869,8 +1869,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270203T094500
 DTEND;VALUE=DATE-TIME:20270203T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056618@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097559@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -1882,8 +1882,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270203T113000
 DTEND;VALUE=DATE-TIME:20270203T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057149@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098090@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -1895,8 +1895,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270204T080000
 DTEND;VALUE=DATE-TIME:20270204T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056466@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097407@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -1908,8 +1908,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270204T150000
 DTEND;VALUE=DATE-TIME:20270204T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057502@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098443@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -1921,8 +1921,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270204T164500
 DTEND;VALUE=DATE-TIME:20270204T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056891@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097832@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -1934,8 +1934,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270205T094500
 DTEND;VALUE=DATE-TIME:20270205T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056736@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097677@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -1947,8 +1947,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270205T113000
 DTEND;VALUE=DATE-TIME:20270205T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057342@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098283@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
@@ -1960,8 +1960,8 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270209T094500
 DTEND;VALUE=DATE-TIME:20270209T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057042@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097983@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
@@ -1973,8 +1973,8 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270209T113000
 DTEND;VALUE=DATE-TIME:20270209T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056418@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097359@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
@@ -1986,8 +1986,8 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270209T131500
 DTEND;VALUE=DATE-TIME:20270209T144500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056754@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097695@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
@@ -1999,8 +1999,8 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270210T094500
 DTEND;VALUE=DATE-TIME:20270210T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056619@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097560@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
@@ -2012,8 +2012,8 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270210T113000
 DTEND;VALUE=DATE-TIME:20270210T130000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057150@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098091@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
@@ -2025,8 +2025,8 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270211T080000
 DTEND;VALUE=DATE-TIME:20270211T093000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056467@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097408@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51025\n
@@ -2038,8 +2038,8 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270211T150000
 DTEND;VALUE=DATE-TIME:20270211T163000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057503@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098444@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
@@ -2051,8 +2051,8 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270211T164500
 DTEND;VALUE=DATE-TIME:20270211T181500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056892@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097833@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
@@ -2064,8 +2064,8 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270212T094500
 DTEND;VALUE=DATE-TIME:20270212T111500
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6056737@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6097678@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
@@ -2077,8 +2077,8 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270212T113000
 DTEND;VALUE=DATE-TIME:20270212T140000
-DTSTAMP;VALUE=DATE-TIME:20261020T062025Z
-UID:sm-6057343@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261020T131501Z
+UID:sm-6098284@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
