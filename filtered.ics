@@ -10,12 +10,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261022T080000
 DTEND;VALUE=DATE-TIME:20261022T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242527@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284324@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -23,12 +23,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261022T150000
 DTEND;VALUE=DATE-TIME:20261022T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243563@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285360@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -36,12 +36,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261022T164500
 DTEND;VALUE=DATE-TIME:20261022T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242952@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284749@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -49,12 +49,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261023T094500
 DTEND;VALUE=DATE-TIME:20261023T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242797@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284594@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -62,12 +62,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261023T113000
 DTEND;VALUE=DATE-TIME:20261023T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243403@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285200@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -75,12 +75,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261027T094500
 DTEND;VALUE=DATE-TIME:20261027T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243103@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284900@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -88,12 +88,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261027T113000
 DTEND;VALUE=DATE-TIME:20261027T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242479@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284276@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -101,12 +101,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261027T131500
 DTEND;VALUE=DATE-TIME:20261027T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242815@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284612@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -114,12 +114,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261028T094500
 DTEND;VALUE=DATE-TIME:20261028T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242681@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284478@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -127,12 +127,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261028T113000
 DTEND;VALUE=DATE-TIME:20261028T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243212@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285009@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -140,12 +140,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261029T080000
 DTEND;VALUE=DATE-TIME:20261029T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242528@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284325@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -153,12 +153,12 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261029T094500
 DTEND;VALUE=DATE-TIME:20261029T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243118@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284915@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -166,12 +166,12 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261029T113000
 DTEND;VALUE=DATE-TIME:20261029T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243359@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285156@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -179,12 +179,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261029T150000
 DTEND;VALUE=DATE-TIME:20261029T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243564@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285361@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -192,12 +192,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261029T164500
 DTEND;VALUE=DATE-TIME:20261029T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242953@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284750@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -205,12 +205,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261030T094500
 DTEND;VALUE=DATE-TIME:20261030T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242798@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284595@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -218,12 +218,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261030T113000
 DTEND;VALUE=DATE-TIME:20261030T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243404@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285201@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -231,12 +231,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261103T094500
 DTEND;VALUE=DATE-TIME:20261103T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243104@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284901@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -244,12 +244,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261103T113000
 DTEND;VALUE=DATE-TIME:20261103T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242480@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284277@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -257,12 +257,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261103T131500
 DTEND;VALUE=DATE-TIME:20261103T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242816@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284613@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -270,12 +270,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261104T094500
 DTEND;VALUE=DATE-TIME:20261104T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242682@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284479@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -283,12 +283,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261104T113000
 DTEND;VALUE=DATE-TIME:20261104T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243213@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285010@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -296,12 +296,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261105T080000
 DTEND;VALUE=DATE-TIME:20261105T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242529@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284326@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -309,12 +309,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261105T150000
 DTEND;VALUE=DATE-TIME:20261105T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243565@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285362@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -322,12 +322,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261105T164500
 DTEND;VALUE=DATE-TIME:20261105T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242954@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284751@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -335,12 +335,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261106T094500
 DTEND;VALUE=DATE-TIME:20261106T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242799@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284596@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -348,12 +348,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261106T113000
 DTEND;VALUE=DATE-TIME:20261106T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243405@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285202@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -361,12 +361,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261110T094500
 DTEND;VALUE=DATE-TIME:20261110T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243105@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284902@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -374,12 +374,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261110T113000
 DTEND;VALUE=DATE-TIME:20261110T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242481@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284278@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -387,12 +387,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261110T131500
 DTEND;VALUE=DATE-TIME:20261110T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242817@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284614@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -400,12 +400,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261112T080000
 DTEND;VALUE=DATE-TIME:20261112T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242530@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284327@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -413,12 +413,12 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261112T094500
 DTEND;VALUE=DATE-TIME:20261112T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243122@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284919@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -426,12 +426,12 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261112T113000
 DTEND;VALUE=DATE-TIME:20261112T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243363@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285160@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -439,12 +439,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261112T150000
 DTEND;VALUE=DATE-TIME:20261112T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243566@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285363@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -452,12 +452,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261112T164500
 DTEND;VALUE=DATE-TIME:20261112T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242955@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284752@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -465,12 +465,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261113T094500
 DTEND;VALUE=DATE-TIME:20261113T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242800@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284597@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -478,12 +478,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261113T113000
 DTEND;VALUE=DATE-TIME:20261113T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243406@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285203@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -491,12 +491,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261117T094500
 DTEND;VALUE=DATE-TIME:20261117T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243106@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284903@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -504,12 +504,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261117T113000
 DTEND;VALUE=DATE-TIME:20261117T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242482@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284279@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -517,12 +517,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261117T131500
 DTEND;VALUE=DATE-TIME:20261117T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242818@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284615@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -530,12 +530,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261118T094500
 DTEND;VALUE=DATE-TIME:20261118T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242683@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284480@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -543,12 +543,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261118T113000
 DTEND;VALUE=DATE-TIME:20261118T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243214@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285011@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -556,12 +556,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261119T080000
 DTEND;VALUE=DATE-TIME:20261119T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242531@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284328@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -569,12 +569,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261119T150000
 DTEND;VALUE=DATE-TIME:20261119T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243567@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285364@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -582,12 +582,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261119T164500
 DTEND;VALUE=DATE-TIME:20261119T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242956@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284753@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -595,12 +595,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261120T094500
 DTEND;VALUE=DATE-TIME:20261120T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242801@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284598@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -608,12 +608,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261120T113000
 DTEND;VALUE=DATE-TIME:20261120T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243407@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285204@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -621,12 +621,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261124T094500
 DTEND;VALUE=DATE-TIME:20261124T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243107@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284904@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -634,12 +634,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261124T113000
 DTEND;VALUE=DATE-TIME:20261124T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242483@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284280@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -647,12 +647,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261124T131500
 DTEND;VALUE=DATE-TIME:20261124T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242819@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284616@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -660,12 +660,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261125T094500
 DTEND;VALUE=DATE-TIME:20261125T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242684@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284481@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -673,12 +673,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261125T113000
 DTEND;VALUE=DATE-TIME:20261125T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243215@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285012@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -686,12 +686,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261126T080000
 DTEND;VALUE=DATE-TIME:20261126T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242532@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284329@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -699,12 +699,12 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261126T094500
 DTEND;VALUE=DATE-TIME:20261126T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243119@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284916@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -712,12 +712,12 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261126T113000
 DTEND;VALUE=DATE-TIME:20261126T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243360@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285157@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -725,12 +725,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261126T150000
 DTEND;VALUE=DATE-TIME:20261126T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243568@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285365@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -738,12 +738,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261126T164500
 DTEND;VALUE=DATE-TIME:20261126T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242957@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284754@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -751,12 +751,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261127T094500
 DTEND;VALUE=DATE-TIME:20261127T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242802@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284599@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -764,12 +764,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261127T113000
 DTEND;VALUE=DATE-TIME:20261127T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243408@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285205@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -777,12 +777,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261201T094500
 DTEND;VALUE=DATE-TIME:20261201T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243108@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284905@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -790,12 +790,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261201T113000
 DTEND;VALUE=DATE-TIME:20261201T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242484@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284281@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -803,12 +803,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261201T131500
 DTEND;VALUE=DATE-TIME:20261201T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242820@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284617@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -816,12 +816,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261202T094500
 DTEND;VALUE=DATE-TIME:20261202T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242685@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284482@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -829,12 +829,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261202T113000
 DTEND;VALUE=DATE-TIME:20261202T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243216@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285013@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -842,12 +842,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261203T080000
 DTEND;VALUE=DATE-TIME:20261203T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242533@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284330@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -855,12 +855,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261203T150000
 DTEND;VALUE=DATE-TIME:20261203T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243569@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285366@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -868,12 +868,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261203T164500
 DTEND;VALUE=DATE-TIME:20261203T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242958@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284755@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -881,12 +881,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261204T094500
 DTEND;VALUE=DATE-TIME:20261204T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242803@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284600@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -894,12 +894,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261204T113000
 DTEND;VALUE=DATE-TIME:20261204T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243409@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285206@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -907,12 +907,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261208T094500
 DTEND;VALUE=DATE-TIME:20261208T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243109@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284906@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -920,12 +920,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261208T113000
 DTEND;VALUE=DATE-TIME:20261208T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242485@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284282@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -933,12 +933,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261208T131500
 DTEND;VALUE=DATE-TIME:20261208T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242821@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284618@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -946,12 +946,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261209T094500
 DTEND;VALUE=DATE-TIME:20261209T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242686@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284483@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -959,12 +959,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261209T113000
 DTEND;VALUE=DATE-TIME:20261209T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243217@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285014@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -972,12 +972,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261210T080000
 DTEND;VALUE=DATE-TIME:20261210T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242534@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284331@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -985,12 +985,12 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261210T094500
 DTEND;VALUE=DATE-TIME:20261210T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243117@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284914@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -998,12 +998,12 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20261210T113000
 DTEND;VALUE=DATE-TIME:20261210T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243358@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285155@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1011,12 +1011,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261210T150000
 DTEND;VALUE=DATE-TIME:20261210T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243570@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285367@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1024,12 +1024,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261210T164500
 DTEND;VALUE=DATE-TIME:20261210T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242959@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284756@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1037,12 +1037,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261211T094500
 DTEND;VALUE=DATE-TIME:20261211T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242804@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284601@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1050,12 +1050,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261211T113000
 DTEND;VALUE=DATE-TIME:20261211T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243410@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285207@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1063,12 +1063,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261215T094500
 DTEND;VALUE=DATE-TIME:20261215T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243110@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284907@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1076,12 +1076,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261215T113000
 DTEND;VALUE=DATE-TIME:20261215T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242486@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284283@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1089,12 +1089,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261215T131500
 DTEND;VALUE=DATE-TIME:20261215T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242822@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284619@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1102,12 +1102,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261216T094500
 DTEND;VALUE=DATE-TIME:20261216T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242687@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284484@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1115,12 +1115,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261216T113000
 DTEND;VALUE=DATE-TIME:20261216T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243218@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285015@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1128,12 +1128,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20261217T080000
 DTEND;VALUE=DATE-TIME:20261217T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242535@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284332@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1141,12 +1141,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261217T150000
 DTEND;VALUE=DATE-TIME:20261217T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243571@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285368@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1154,12 +1154,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261217T164500
 DTEND;VALUE=DATE-TIME:20261217T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242960@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284757@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1167,12 +1167,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20261218T094500
 DTEND;VALUE=DATE-TIME:20261218T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242805@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284602@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1180,12 +1180,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261218T113000
 DTEND;VALUE=DATE-TIME:20261218T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243411@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285208@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1193,12 +1193,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20261222T094500
 DTEND;VALUE=DATE-TIME:20261222T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243111@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284908@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1206,12 +1206,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261222T113000
 DTEND;VALUE=DATE-TIME:20261222T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242487@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284284@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1219,12 +1219,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261222T131500
 DTEND;VALUE=DATE-TIME:20261222T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242823@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284620@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1232,12 +1232,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20261223T094500
 DTEND;VALUE=DATE-TIME:20261223T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242688@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284485@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1245,12 +1245,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20261223T113000
 DTEND;VALUE=DATE-TIME:20261223T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243219@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285016@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1258,12 +1258,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270107T080000
 DTEND;VALUE=DATE-TIME:20270107T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242536@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284333@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1271,12 +1271,12 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270107T094500
 DTEND;VALUE=DATE-TIME:20270107T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243123@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284920@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1284,12 +1284,12 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20270107T113000
 DTEND;VALUE=DATE-TIME:20270107T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243364@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285161@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1297,12 +1297,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270107T150000
 DTEND;VALUE=DATE-TIME:20270107T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243572@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285369@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1310,12 +1310,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270107T164500
 DTEND;VALUE=DATE-TIME:20270107T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242961@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284758@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1323,12 +1323,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270108T094500
 DTEND;VALUE=DATE-TIME:20270108T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242806@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284603@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1336,12 +1336,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270108T113000
 DTEND;VALUE=DATE-TIME:20270108T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243412@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285209@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1349,12 +1349,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270112T094500
 DTEND;VALUE=DATE-TIME:20270112T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243112@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284909@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1362,12 +1362,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270112T113000
 DTEND;VALUE=DATE-TIME:20270112T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242488@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284285@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1375,12 +1375,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270112T131500
 DTEND;VALUE=DATE-TIME:20270112T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242824@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284621@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1388,12 +1388,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270113T094500
 DTEND;VALUE=DATE-TIME:20270113T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242689@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284486@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1401,12 +1401,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270113T113000
 DTEND;VALUE=DATE-TIME:20270113T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243220@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285017@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1414,12 +1414,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270114T080000
 DTEND;VALUE=DATE-TIME:20270114T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242537@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284334@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1427,12 +1427,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270114T150000
 DTEND;VALUE=DATE-TIME:20270114T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243573@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285370@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1440,12 +1440,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270114T164500
 DTEND;VALUE=DATE-TIME:20270114T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242962@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284759@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1453,12 +1453,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270115T094500
 DTEND;VALUE=DATE-TIME:20270115T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242807@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284604@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1466,12 +1466,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270115T113000
 DTEND;VALUE=DATE-TIME:20270115T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243413@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285210@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1479,12 +1479,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270119T094500
 DTEND;VALUE=DATE-TIME:20270119T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243113@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284910@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1492,12 +1492,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270119T113000
 DTEND;VALUE=DATE-TIME:20270119T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242489@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284286@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1505,12 +1505,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270119T131500
 DTEND;VALUE=DATE-TIME:20270119T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242825@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284622@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1518,12 +1518,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270120T094500
 DTEND;VALUE=DATE-TIME:20270120T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242690@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284487@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1531,12 +1531,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270120T113000
 DTEND;VALUE=DATE-TIME:20270120T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243221@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285018@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1544,12 +1544,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270121T080000
 DTEND;VALUE=DATE-TIME:20270121T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242538@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284335@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1557,12 +1557,12 @@ BEGIN:VEVENT
 SUMMARY:C - Techniki i systemy pomiarowe [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270121T094500
 DTEND;VALUE=DATE-TIME:20270121T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243121@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284918@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B17\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51037\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1570,12 +1570,12 @@ BEGIN:VEVENT
 SUMMARY:W - Techniki i systemy pomiarowe [wykład]
 DTSTART;VALUE=DATE-TIME:20270121T113000
 DTEND;VALUE=DATE-TIME:20270121T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243362@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285159@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51035\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1583,12 +1583,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270121T150000
 DTEND;VALUE=DATE-TIME:20270121T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243574@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285371@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1596,12 +1596,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270121T164500
 DTEND;VALUE=DATE-TIME:20270121T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242963@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284760@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1609,12 +1609,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270122T094500
 DTEND;VALUE=DATE-TIME:20270122T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242808@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284605@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1622,12 +1622,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270122T113000
 DTEND;VALUE=DATE-TIME:20270122T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243414@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285211@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1635,12 +1635,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270126T094500
 DTEND;VALUE=DATE-TIME:20270126T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243114@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284911@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1648,12 +1648,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270126T113000
 DTEND;VALUE=DATE-TIME:20270126T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242490@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284287@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1661,12 +1661,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270126T131500
 DTEND;VALUE=DATE-TIME:20270126T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242826@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284623@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1674,12 +1674,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270127T094500
 DTEND;VALUE=DATE-TIME:20270127T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242691@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284488@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1687,12 +1687,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270127T113000
 DTEND;VALUE=DATE-TIME:20270127T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243222@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285019@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1700,12 +1700,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270128T080000
 DTEND;VALUE=DATE-TIME:20270128T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242539@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284336@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1713,12 +1713,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270128T150000
 DTEND;VALUE=DATE-TIME:20270128T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243575@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285372@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1726,12 +1726,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270128T164500
 DTEND;VALUE=DATE-TIME:20270128T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242964@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284761@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1739,12 +1739,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270129T094500
 DTEND;VALUE=DATE-TIME:20270129T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242809@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284606@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1752,12 +1752,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270129T113000
 DTEND;VALUE=DATE-TIME:20270129T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243415@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285212@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1765,12 +1765,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270202T094500
 DTEND;VALUE=DATE-TIME:20270202T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243115@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284912@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1778,12 +1778,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270202T113000
 DTEND;VALUE=DATE-TIME:20270202T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242491@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284288@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1791,12 +1791,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270202T131500
 DTEND;VALUE=DATE-TIME:20270202T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242827@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284624@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1804,12 +1804,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270203T094500
 DTEND;VALUE=DATE-TIME:20270203T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242692@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284489@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1817,12 +1817,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270203T113000
 DTEND;VALUE=DATE-TIME:20270203T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243223@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285020@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1830,12 +1830,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270204T080000
 DTEND;VALUE=DATE-TIME:20270204T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242540@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284337@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1843,12 +1843,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270204T150000
 DTEND;VALUE=DATE-TIME:20270204T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243576@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285373@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1856,12 +1856,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270204T164500
 DTEND;VALUE=DATE-TIME:20270204T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242965@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284762@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1869,12 +1869,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270205T094500
 DTEND;VALUE=DATE-TIME:20270205T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242810@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284607@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1882,12 +1882,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270205T113000
 DTEND;VALUE=DATE-TIME:20270205T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243416@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285213@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1895,12 +1895,12 @@ BEGIN:VEVENT
 SUMMARY:W - Wytrzymałość materiałów [wykład]
 DTSTART;VALUE=DATE-TIME:20270209T094500
 DTEND;VALUE=DATE-TIME:20270209T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243116@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284913@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C113\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51034\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1908,12 +1908,12 @@ BEGIN:VEVENT
 SUMMARY:C - Matematyka III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270209T113000
 DTEND;VALUE=DATE-TIME:20270209T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242492@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284289@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B19\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51024\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1921,12 +1921,12 @@ BEGIN:VEVENT
 SUMMARY:C - Wytrzymałość materiałów [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270209T131500
 DTEND;VALUE=DATE-TIME:20270209T144500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242828@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284625@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M18\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51032\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1934,12 +1934,12 @@ BEGIN:VEVENT
 SUMMARY:C - Mechanika ogólna II [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270210T094500
 DTEND;VALUE=DATE-TIME:20270210T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242693@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284490@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B16\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51030\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1947,12 +1947,12 @@ BEGIN:VEVENT
 SUMMARY:L - Techniki i systemy pomiarowe [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270210T113000
 DTEND;VALUE=DATE-TIME:20270210T130000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243224@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285021@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M17\nCSI Budynek G - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51036\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1960,12 +1960,12 @@ BEGIN:VEVENT
 SUMMARY:W - Matematyka III [wykład]
 DTSTART;VALUE=DATE-TIME:20270211T080000
 DTEND;VALUE=DATE-TIME:20270211T093000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242541@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284338@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: C302\nPocztowa - Instytut Matematyki i Informatyki\n\nht
  tps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/p
  okazZajecia&gr_nr=1&zaj_cyk_id=51025\n
-LOCATION:ul. Pocztowa 54A\, Chełm
+LOCATION:ul. Pocztowa 54A\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1973,12 +1973,12 @@ BEGIN:VEVENT
 SUMMARY:C - Lektorat języka angielskiego III [ćwiczenia]
 DTSTART;VALUE=DATE-TIME:20270211T150000
 DTEND;VALUE=DATE-TIME:20270211T163000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243577@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285374@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B9\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://u
  sosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZaj
  ecia&gr_nr=1&zaj_cyk_id=51039\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1986,12 +1986,12 @@ BEGIN:VEVENT
 SUMMARY:L - Wytrzymałość materiałów [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270211T164500
 DTEND;VALUE=DATE-TIME:20270211T181500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242966@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284763@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: M12\nCSI Budynek H - Laboratoria Mechaniki i Budowy Masz
  yn\n\nhttps://usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/prze
  dmioty/pokazZajecia&gr_nr=1&zaj_cyk_id=51033\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -1999,12 +1999,12 @@ BEGIN:VEVENT
 SUMMARY:W - Mechanika ogólna II [wykład]
 DTSTART;VALUE=DATE-TIME:20270212T094500
 DTEND;VALUE=DATE-TIME:20270212T111500
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6242811@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6284608@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: A207\nBudynek Główny - Rektorat\n\nhttps://usosweb.pan
  schelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&gr_nr
  =1&zaj_cyk_id=51031\n
-LOCATION:ul. Pocztowa 54\, Chełm
+LOCATION:ul. Pocztowa 54\, 22-100 Chełm\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
@@ -2012,12 +2012,12 @@ BEGIN:VEVENT
 SUMMARY:L - CAD [laboratorium]
 DTSTART;VALUE=DATE-TIME:20270212T113000
 DTEND;VALUE=DATE-TIME:20270212T140000
-DTSTAMP;VALUE=DATE-TIME:20261022T133050Z
-UID:sm-6243417@usosapi.panschelm.edu.pl
+DTSTAMP;VALUE=DATE-TIME:20261022T185709Z
+UID:sm-6285214@usosapi.panschelm.edu.pl
 DESCRIPTION:Sala: B10\nCSI Budynek J - Laboratoria Budownictwa\n\nhttps://
  usosweb.panschelm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZa
  jecia&gr_nr=1&zaj_cyk_id=51038\n
-LOCATION:Depułtycze Królewskie 8
+LOCATION:Depułtycze Królewskie 55\, 22-100\, Polska
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
